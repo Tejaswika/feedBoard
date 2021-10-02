@@ -12,7 +12,7 @@ function Upper() {
       <img src={textboxHeader} className='header-img' />
       <div className='top-block'>
         <h1 className='upper-head'>
-          SPEAK YOUR <span className='mkbspan'>MAN KI BAAT</span>
+          SPEAK YOUR <span className='mkbspan'>DILL KI BAAT</span>
         </h1>
         <div className='input-div'>
           <textarea id='text' className='input-field'></textarea>
